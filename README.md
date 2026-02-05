@@ -1,4 +1,4 @@
-This repository contains my daily java practice programs focusing on building programming knowledge in java and to learn and improve my coding skills 
+This repository contains my daily java practice programs focusing on building programming knowledge in java  and learning to improve my coding skills 
 
 topics covered
 variables
